@@ -1,0 +1,29 @@
+Create App react
+לפי הארכיקטטורה שצילמתי
+-
+
+Family
+-
+היה השמות של כל המשפחה
+והגיל
+
+
+Mom
+-
+
+
+
+Dad
+-
+
+
+Me
+-
+
+
+Brother
+-
+
+
+Sister
+-

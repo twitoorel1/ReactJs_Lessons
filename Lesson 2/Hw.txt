@@ -1,0 +1,24 @@
+Create React APP
+
+ליצור טופס עם
+input and button
+
+לפי קומפוננטות
+לפי התמונה
+
+
+קמפוננט ראשון
+form 0 input and button
+
+קומפוננט 2
+text אם אני יכול לשתות או לא
+לפי הגיל
+
+
+רמז:
+ערך האינפוט צריך לשבת ב
+State
+
+זה חובה 2
+Componant
+
