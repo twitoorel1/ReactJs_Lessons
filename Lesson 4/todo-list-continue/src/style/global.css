@@ -1,0 +1,154 @@
+.app-container {
+  background: #fff;
+  width: 450px;
+  height: 700px;
+  border: 1px solid #f1f1f1;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-container {
+  width: 90%;
+  height: 20%;
+  border-bottom: lightgrey 1px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-container > button {
+  margin: 0 15px;
+  background-color: #9b59b6;
+  color: #fff;
+  border: none;
+  width: 60px;
+  height: 30px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.25s;
+}
+
+.form-container > button:hover {
+  background-color: #8e44ad;
+}
+
+.todo-list-container {
+  width: 100%;
+  height: 80%;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.todo-item-container {
+  width: 85%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: lightgrey 1px solid;
+  padding: 20px;
+  transition: 0.1s;
+  margin: 5px 0;
+}
+
+.todo-item-container:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.todoItemDeleteButton {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: #9b59b6;
+  color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.1) 4c2;
+  margin-left: 20px;
+}
+
+.todoItemDeleteButton:hover {
+  background-color: #8e44ad;
+}
+
+.todoItemEditButton {
+  margin: 0 5px;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #9b59b6;
+  color: #fff;
+  border: 1px solid #8e44ad;
+}
+.todoItemEditButton:hover {
+  background-color: #8e44ad;
+  color: #fff;
+}
+
+.todoListEditContainer {
+  margin: 5px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1) 4px;
+  height: 40px;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 8px;
+}
+
+.todoItemEditSaveBuuton {
+  margin: 0 5px;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #9b59b6;
+  color: #fff;
+  border: 1px solid #8e44ad;
+}
+
+.todoItemEditSaveBuuton:hover {
+  background-color: #8e44ad;
+  color: #fff;
+}
+
+/* .completeAllTodo {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.completeAllTodo > button {
+  border: none;
+  background-color: #9b59b6;
+  color: #fff;
+  width: 60%;
+  height: 40px;
+  margin: 20px 0;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.25s;
+}
+.completeAllTodo > button:hover {
+  background-color: #8e44ad;
+  color: #fff;
+} */
+
+/* 
+input[type="button"] {
+  border: none;
+  background-color: #9b59b6;
+  color: #fff;
+  width: 60px;
+  height: 30px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.25s;
+}
+
+input[type="button"]:hover {
+  background-color: #8e44ad;
+  color: #fff;
+} */
